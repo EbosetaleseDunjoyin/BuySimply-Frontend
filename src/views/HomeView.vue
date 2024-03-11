@@ -1,5 +1,5 @@
 <template>
-  <main class="grid grid-cols-2 gap-0 h-screen">
+  <main class="grid grid-cols-1 md:grid-cols-2 gap-0 h-screen">
     <div class="bg-lpurple rounded-[20px] hidden md:block px-16 pt-6 pb-16">
       <img src="../assets/logo.png" alt="Logo" class="logo w-[198px] h-[97px] object-cover mb-9">
       <img src="../assets/Loginimage.png" class="rounded-[20px] loginImage" alt="">

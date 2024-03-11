@@ -1,15 +1,15 @@
 <template>
   <section>
-    <div class="  grid grid-col-1 place-content-center  p-16" >
+    <div class="  grid grid-col-1 place-content-center px-4 py-10 md:p-16" >
         <div class="block mx-auto md:hidden">
-            <img src="../assets/logo.png" alt="Logo" class="logo w-[198px] h-[97px] object-cover mb-9">
+            <img src="../../assets/logo.png" alt="Logo" class="logo w-[198px] h-[97px] object-cover mb-9">
         </div>
         <div class="w-full md:py-20">
             <div class="text-center">
-                <h1 class="text-dpurple f-lora text-[32px] mb-3 font-bold">
+                <h1 class="text-dpurple f-lora text-[24px] md:text-[32px] mb-3 font-bold">
                     Welcome Back
                 </h1>
-                <p class="text-grey f-noto text-base font-normal">
+                <p class="text-grey f-noto text-sm md:text-base font-normal">
                     Enter your email address and password to access your account.
                 </p>
             </div>
